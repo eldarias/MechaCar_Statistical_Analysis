@@ -1,3 +1,6 @@
+# Files not to upload:
+01_Demo/
+
 # History files
 .Rhistory
 .Rapp.history
